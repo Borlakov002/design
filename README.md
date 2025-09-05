@@ -3,3 +3,6 @@
 
 "Тестирование фильтрации и сортировки" ссылка на гугл-таблицу
 https://docs.google.com/spreadsheets/d/1DE6WVCBG4qO2Gknna-AMi5c0nyKLQOpek_M0YMkYTsg/edit?gid=207292469#gid=207292469
+
+"Тестирование модуля оплаты Paypal" ссылка на гугл-таблицу
+https://docs.google.com/spreadsheets/d/1uJHxkOw59jjQpuaChyRvKh4vz5UWdoMbwbze1P0liwQ/edit?gid=0#gid=0
